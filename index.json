@@ -1,0 +1,83 @@
+[
+  {
+    "id": "1",
+    "title": "Красный бархат",
+    "vendor_code": "111",
+    "description": "В наличии",
+    "price": 100,
+    "img": "красныйбархат.webp"
+  },
+  {
+    "id": "2",
+    "title": "Три шоколада",
+    "vendor_code": "222",
+    "description": "В наличии",
+    "price": 200,
+    "img": "тришоколада.webp"
+  },
+  {
+    "id": "3",
+    "title": "Ананасовый торт",
+    "vendor_code": "333",
+    "description": "В наличии",
+    "price": 300,
+    "img": "ананас.webp"
+  },
+  {
+    "id": "4",
+    "title": "Черный лес",
+    "vendor_code": "444e",
+    "description": "В наличии",
+    "price": 400,
+    "img": "черныйл.webp"
+  }
+  ,
+  {
+    "id": "5",
+    "title": "Манник",
+    "vendor_code": "4445e",
+    "description": "В наличии",
+    "price": 400,
+    "img": "манникч.webp"
+  },
+  {
+    "id": "6",
+    "title": "Бисквитный торт",
+    "vendor_code": "4446e",
+    "description": "В наличии",
+    "price": 400,
+    "img": "бисквит.webp"
+  },
+  {
+    "id": "7",
+    "title": "Кофейный торт",
+    "vendor_code": "4447e",
+    "description": "Описание 7",
+    "price": 700,
+    "img": "кофе.webp"
+  },
+  {
+    "id": "8",
+    "title": "Кекс",
+    "vendor_code": "4448e",
+    "description": "В наличии",
+    "price": 200,
+    "img": "кекс.webp"
+  },
+  {
+    "id": "9",
+    "title": "Клубничный торт",
+    "vendor_code": "444e",
+    "description": "В наличии",
+    "price": 300,
+    "img": "клубника.webp"
+  },
+  {
+    "id": "11",
+    "title": "Шоколадный торт",
+    "vendor_code": "44411e",
+    "description": "В наличии",
+    "price": 300,
+    "img": "шоколадн.webp"
+  }
+]
